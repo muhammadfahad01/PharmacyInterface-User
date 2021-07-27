@@ -1,0 +1,76 @@
+{
+  "project_info": {
+    "project_number": "316264883842",
+    "project_id": "pharmacyonphone-b5ed8",
+    "storage_bucket": "pharmacyonphone-b5ed8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316264883842:android:c60aca298bd602cf17369b",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyinterface"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316264883842-0ht1e4bdk1k9nvn98cs3erasenpc0rt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC-AnmtAAtWG1ATq8wehfIKgV-hmp2bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316264883842-0ht1e4bdk1k9nvn98cs3erasenpc0rt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:316264883842:android:7b78191debc4a07417369b",
+        "android_client_info": {
+          "package_name": "com.example.pharmacyonphone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "316264883842-u8irr70ssshrofoed594n2dfv4h0j1t2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pharmacyonphone",
+            "certificate_hash": "0bdbb339115638d7cb335760c417b85c867bb107"
+          }
+        },
+        {
+          "client_id": "316264883842-0ht1e4bdk1k9nvn98cs3erasenpc0rt7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwC-AnmtAAtWG1ATq8wehfIKgV-hmp2bw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "316264883842-0ht1e4bdk1k9nvn98cs3erasenpc0rt7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

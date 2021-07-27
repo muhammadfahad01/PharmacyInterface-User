@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Pharmacy on Phone</string>
+    <string name="online_pharmacy">Online <br></br>Pharmacy</string>
+    <string name="hint_search">Search for Tabs, vitamins etc..</string>
+    <string name="shop_by_category">Shop by Category</string>
+    <string name="popular_products">Popular Products</string>
+    <string name="consultation">Consultation</string>
+    <string name="medicines">Medicines</string>
+    <string name="lab_tests">Lab Tests</string>
+    <string name="health">Health</string>
+    <string name="omega_3">Omega 3</string>
+    <string name="vitamins">Vitamins</string>
+    <string name="multi_vitamins">Multi Vitamins</string>
+    <string name="pils_90">90 Tabs</string>
+    <string name="final_price_217">Rs.217</string>
+    <string name="price_287">Rs.287</string>
+    <string name="test">Test</string>
+    <string name="product_detail">Product Detail</string>
+    <string name="info_detail">Information of the details of the product</string>
+    <string name="add_to_basket">Add to Basket</string>
+
+</resources>
